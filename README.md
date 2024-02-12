@@ -4,4 +4,4 @@
 2. `npm start`
 
 ### How to test the program?
-1. `python3 -s test1.py`
+1. `python3 -s test_1_marking_mk2.py`
