@@ -1,7 +1,6 @@
 # Assignment 1
 ### How to run the program?
 1. `npm install`
-2. `npm start`
+2. `openssl rand -hex 32`
+3. `npm start`
 
-### How to test the program?
-1. `python3 -s test_1_marking_mk2.py`
